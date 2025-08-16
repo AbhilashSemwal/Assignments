@@ -1,0 +1,13 @@
+body{
+    width: 85%;
+    margin-left: 100px;
+    font-size: large;
+    color: grey;
+}
+h1,h2,h3,h4,.bold{
+    color: black;
+    font-weight: bold;
+}
+pre{
+    color: blue;
+}
