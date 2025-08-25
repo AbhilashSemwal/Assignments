@@ -1,0 +1,35 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(6, 236, 6);
+}
+.line-through{
+    text-decoration: line-through;
+}
+.marked{
+    background-color: yellow;
+    font-weight: bolder;
+}
+.underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+.brown{
+    color: brown;
+}
+ul{
+    letter-spacing: 5px;
+    font-size:medium;
+}
+.extra-small{
+    font-size: x-small;
+}
+.small{
+    font-size: small;
+    font-style: italic;
+}
+a{
+    background-color: yellow;
+    text-decoration: none;
+}
