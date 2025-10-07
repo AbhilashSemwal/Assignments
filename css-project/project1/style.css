@@ -21,10 +21,6 @@ body{
 .h3{
   font-size: medium;
 }
-.L1{
-  text-decoration: line-through;
-  color: #808080;
-}
 .new {
   margin-left: 700px;
   font-size: 20px;
@@ -70,7 +66,13 @@ body{
   background-size: cover;
 }
 
+.check:checked ~ .L1,
+.check:checked ~ .L2 {
+  text-decoration: line-through;
+  color: #808080;
+}
 
   
+
 
 
